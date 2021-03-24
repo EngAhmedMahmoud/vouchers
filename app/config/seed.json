@@ -1,0 +1,22 @@
+{
+    "customers":[{
+        "_id":"6053bb122571e53c32f34e4f",
+        "name":"Ahmed Mahmoud",
+        "email":"ahmed.m.web.dev@gmail.com",
+        "password":"will-be-hased-password-using-bcrypt"
+    },{
+        "_id":"6053bb122571e53c72f45e9f",
+        "name":"Mohamed Diaa",
+        "email":"a.abdelfatah@gmail.com",
+        "password":"will-be-hased-password-using-bcrypt"
+       
+    }],
+    "offers":[{
+        "_id":"6053bb132571e53c32f34e62",
+        "title":"20% discount for new users",
+        "description":"This offer for the new users who are using our application",
+        "termsOfUse":"New accounts, based on your location you will get the offer if you are open app from out-scope area you will not get this offer",
+        "discount":20
+    }]
+
+}
